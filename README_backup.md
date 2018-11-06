@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # New cafe ANALOG website
 
 This is a repo for the new Analog website (10-2018)
@@ -45,3 +46,7 @@ Front-end will be based on this Bootstrap template: https://blackrockdigital.git
 
 
  
+||||||| merged common ancestors
+=======
+# analog-website
+>>>>>>> a1d81d8360ae8dfeed19114f2d02240169c31fa1
