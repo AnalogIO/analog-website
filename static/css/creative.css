@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  color: white;
 }
 
 hr {
@@ -222,6 +223,15 @@ header.masthead p {
   header.masthead h1 {
     font-size: 4rem;
   }
+}
+
+.on_shift {
+  width: 70%;
+}
+
+.member_box {
+  background-color: white;
+  margin: 0em 1em 0em 1em;
 }
 
 .service-box {
